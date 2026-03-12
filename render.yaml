@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ipl-ai-guide
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "gunicorn api.server:app"
+

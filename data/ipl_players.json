@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Virat Kohli",
+        "team": "RCB"
+    },
+    {
+        "name": "MS Dhoni",
+        "team": "CSK"
+    },
+    {
+        "name": "Rohit Sharma",
+        "team": "MI"
+    },
+    {
+        "name": "Hardik Pandya",
+        "team": "MI"
+    },
+    {
+        "name": "Jasprit Bumrah",
+        "team": "MI"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "team": "CSK"
+    },
+    {
+        "name": "KL Rahul",
+        "team": "LSG"
+    },
+    {
+        "name": "Shubman Gill",
+        "team": "GT"
+    }
+]
